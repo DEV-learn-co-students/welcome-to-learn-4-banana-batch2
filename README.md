@@ -6,7 +6,7 @@ The Learn IDE is built on top of Atom, the text editor by the amazing people at 
 
 When you open the Learn IDE, you'll see 3 main components: the file browser, the text editor and the terminal. Let's talk about each of those. 
 
-<img src="http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png" style="width:100%" />
+<img src="https://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png" style="width:100%" />
 
 Down the left side of the IDE, you'll find a file browser which lists the files and folders in your “code” workspace. Contained in your “code” workspace is a “labs” folder—this is the folder into which all of the code labs and projects you'll be working on will appear. You'll see new folders be automatically copied here for you as you start working through lessons on Learn very soon. Clicking on a file in the file browser will load the contents of that file into the text editor window. 
 
