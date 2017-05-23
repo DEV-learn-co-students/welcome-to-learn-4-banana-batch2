@@ -40,5 +40,5 @@ Didn't follow the instructions the first time above? No problem. Here they are a
 
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4-b'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
 
