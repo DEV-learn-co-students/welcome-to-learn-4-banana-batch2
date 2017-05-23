@@ -1,6 +1,19 @@
 # The Learn <abbr title="Integrated Development Environment">IDE</abbr>
 
-Since you're going to be living in the Learn IDE as you learn to code, let's take a few minutes and talk a little more about it and how it works.
+You'll be using the Learn IDE to complete the coding labs in your courses. You'll be spending a lot of time with the IDE so let's take a few minutes to see how it works.
+
+## Download the Learn IDE
+
+First, we need to get set up with the Learn IDE. Follow the instructions below: 
+
+1. <a class="js--download-ide button button--color-blue button--corners-tight" href="#">Click here to create a Learn account (or log in) and Download the Learn IDE</a>
+2. The Chrome browser may give you a warning upon downloading: "This type of file can harm your computer. Do you want to keep Learn IDE anyway?" Click "Keep" to continue the download; the Learn IDE is safe.
+3. Install the Learn IDE on your computer and then start it up
+4. Log in to the Learn IDE with your newly created Learn account
+
+If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
+
+## About the Learn IDE
 
 The Learn IDE is built on top of Atom, the text editor by the amazing people at GitHub. The Learn IDE uses the same open-source technologies that thousands of professional developers use everyday, so when you're using the Learn IDE, you're using the same real tools that developers use. Because it's built on top of Atom, it's also compatible with the entire Atom plugin infrastructure giving you access to all kinds of useful extensions and tools you can add on as you see fit.
 
@@ -14,14 +27,18 @@ The text editor window is the central part of the IDE. This is where you'll actu
 
 The Learn IDE's terminal—your command line and shell—can be found below the text editor. If you were using a local terminal on your computer, you'd need to spend a bunch of time installing several different tools and packages to allow you to start compiling and running code; it can be a cumbersome and complex process. But because we want you to start coding as quickly as possible in the Learn IDE, we've pre-configured the terminal here with a complete development environment that has everything you need to get started. The magic that makes this possible is the fact that the Learn IDE's terminal is connected over the Internet to a remote server we've set up with a complete development environment for you. This will allow you to adopt the workflow of a professional software developer right out of the gates on Learn, with no fuss.
 
-## Set up the Learn IDE on your computer
+## Don't Forget to Download the Learn IDE
 
-Before you continue, it's time to get set up with the Learn IDE. Follow the instructions below to get started: 
+Didn't follow the instructions the first time above? No problem. Here they are again for you below. 
 
-1. <a class="js--download-ide" href="#">Click here to create a Learn account and Download the Learn IDE</a>
-2. Install the Learn IDE on your computer and then start it up
-3. Log in to the Learn IDE with your newly created Learn account
+1. <a class="js--download-ide" href="#">Click here to create a Learn account (or log in) and Download the Learn IDE</a>
+2. The Chrome browser may give you a warning upon downloading, "This type of file can harm your computer. Do you want to keep Learn IDE anyway?". Click "Keep" to continue the download, the Learn IDE is safe.
+3. Install the Learn IDE on your computer and then start it up
+4. Log in to the Learn IDE with your newly created Learn account
 
-If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
+## Continue to Your First Lab!
 
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4-b'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
+
